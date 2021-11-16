@@ -4,5 +4,5 @@ function MobList({title}){
     return (
         <li className={styles.li}>{title}</li>
     )
-}
+}//this is commit
 export default MobList
